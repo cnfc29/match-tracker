@@ -1,0 +1,12 @@
+.teamContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+}

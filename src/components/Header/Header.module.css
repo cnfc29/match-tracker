@@ -1,0 +1,21 @@
+.headerContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.infoContainer {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 32px;
+  color: #ffffff;
+}

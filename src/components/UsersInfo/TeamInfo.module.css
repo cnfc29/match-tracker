@@ -1,0 +1,40 @@
+.teamInfoContainer {
+  padding: 12px 28px 12px;
+  display: flex;
+  gap: 8px;
+}
+
+.homeTeam,
+.awayTeam {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.players {
+  width: 100%;
+  display: flex;
+  gap: 8px;
+}
+
+.teamInfo {
+  width: 100%;
+  background-color: #101318;
+  border-radius: 4px;
+  padding: 14px 24px 14px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.text {
+  color: #fafafa66;
+  font-size: 14px;
+  font-weight: 500px;
+}
+
+.number {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600px;
+}

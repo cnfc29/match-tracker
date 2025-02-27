@@ -1,0 +1,36 @@
+.player {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 16px 8px;
+  background-color: #101318;
+  border-radius: 4px;
+  flex: 1;
+  max-width: 286px;
+}
+
+.userName {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.killsContainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.text {
+  color: #fafafa66;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.kills {
+  color: #f2f6f6;
+  font-size: 16px;
+  font-weight: 600;
+}

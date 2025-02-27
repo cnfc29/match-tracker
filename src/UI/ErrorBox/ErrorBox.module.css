@@ -1,0 +1,15 @@
+.errorBoxContainer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 17px 24px 17px;
+  border-radius: 4px;
+  background-color: #0f1318;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  padding-top: 3px;
+}
